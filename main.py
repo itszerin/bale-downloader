@@ -16,7 +16,7 @@ from telegram.ext import (
     ContextTypes,
 )
 
-BOT_TOKEN = "848833428:qfwjlJsnFdfXdkHG7mwY22EmCkR1ih3TViE"  # ← توکن خودت
+BOT_TOKEN = ""  # ← توکن خودت
 TEMP_DIR = Path("tmp_files")
 TEMP_DIR.mkdir(exist_ok=True)
 
